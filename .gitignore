@@ -1,0 +1,112 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDEs / Editors
+# =========================
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Testing / Coverage
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# Data / Generated Files
+# =========================
+*.csv
+*.parquet
+*.pkl
+*.pickle
+*.joblib
+
+data/
+datasets/
+outputs/
+results/
+cache/
+tmp/
+
+# =========================
+# ML / AI
+# =========================
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Vector databases / embeddings
+chroma/
+chroma_db/
+vectorstore/
+*.faiss
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Node / React (if applicable)
+# =========================
+node_modules/
+dist/
+build/
+.vite/
+
+# =========================
+# Local databases
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Misc
+# =========================
+*.bak
+*.tmp
+
+backend/uploads
