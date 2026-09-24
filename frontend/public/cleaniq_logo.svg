@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="24" fill="#0ea5e9" />
+  <!-- Data Rows -->
+  <rect width="60" height="10" x="20" y="26" rx="5" fill="#e0f2fe" opacity="0.9" />
+  <rect width="45" height="10" x="20" y="46" rx="5" fill="#e0f2fe" opacity="0.9" />
+  <rect width="30" height="10" x="20" y="66" rx="5" fill="#e0f2fe" opacity="0.9" />
+  <!-- Checkmark -->
+  <path d="M50 68 L62 80 L86 42" stroke="#ffffff" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
